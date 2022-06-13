@@ -4,8 +4,8 @@ id,surname,name,patronymic,specialization
 3,Egorov,Egor,Egorovich,economic
 4,Andreev,Andrei,Andreevich,finance
 5,Nikolaev,Nikolai,Nikolaevich,RealEstate
-6,
-7,
-8,
-9,
-10,
+6,Viktorov,Viktor,Viktorovich,CorporateLaw
+7,Borisov,Boris,Borisovich,construction
+8,Bogdanov,Bogdan,Bogdanovich,LaborLaw
+9,Denisov,Denis,Denisovich,IntellectualProperty
+10,Evgeniev,Evgenii,Evgenievich,AdministrativeLaw
